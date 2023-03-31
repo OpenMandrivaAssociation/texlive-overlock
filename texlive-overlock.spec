@@ -1,6 +1,6 @@
 Name:		texlive-overlock
 Version:	64495
-Release:	1
+Release:	2
 Summary:	Overlock sans fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/overlock
