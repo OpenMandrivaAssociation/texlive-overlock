@@ -3,7 +3,7 @@ Version:	64495
 Release:	2
 Summary:	Overlock sans fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/overlock
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/overlock
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/overlock.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/overlock.doc.r%{version}.tar.xz
